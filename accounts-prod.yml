@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to VyberCoders accounts related production APIs "
+  message: "Welcome to VyberCoders accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}e771f8e50acc3106436eae6c291205e6c553c6578a272c857e844b109e94ec3c1687be2e3c66d5ebe5daf37268c36294"
