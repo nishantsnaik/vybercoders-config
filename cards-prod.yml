@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to VyberCoders cards related prod APIs "
+  message: "Welcome to VyberCoders cards related production again APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@VyberCoders.com"
